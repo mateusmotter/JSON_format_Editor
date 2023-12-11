@@ -1,0 +1,122 @@
+[
+    {
+        "OPPONENTS": "DROGHEDA",
+        "DATE": "28/09/1993",
+        "GK": "Ray Clemence",
+        "RB": "Roberts",
+        "LB": "Paul Price",
+        "RH": "Steve Perryman",
+        "CH": "Chris Hughton",
+        "LH": "Alan Brazil",
+        "RW": "Gary Mabbutt",
+        "IR": "Glenn Hoddle",
+        "CF": "Tony Galvin",
+        "IL": "Steve Archibald",
+        "LW": "Mark Falco",
+        "SUB": [
+            "Gary O'Reilly",
+            "Peter"
+        ]
+    },
+    {
+        "OPPONENTS": "Real Madrid",
+        "DATE": "15/02/2023",
+        "GK": "Thibaut Courtois",
+        "RB": "Dani Carvajal",
+        "LB": "Ferland Mendy",
+        "RH": "Luka Modric",
+        "CH": "Casemiro",
+        "LH": "Toni Kroos",
+        "RW": "Vinícius Júnior",
+        "IR": "Karim Benzema",
+        "CF": "Eden Hazard",
+        "IL": "Marco Asensio",
+        "LW": "Rodrygo",
+        "SUB": [
+            "Isco",
+            "Lucas Vázquez"
+        ]
+    },
+    {
+        "OPPONENTS": "Barcelona",
+        "DATE": "10/03/2023",
+        "GK": "Marc-André ter Stegen",
+        "RB": "Sergi Roberto",
+        "LB": "Jordi Alba",
+        "RH": "Frenkie de Jong",
+        "CH": "Sergio Busquets",
+        "LH": "Pedri",
+        "RW": "Ousmane Dembélé",
+        "IR": "Lionel Messi",
+        "CF": "Antoine Griezmann",
+        "IL": "Philippe Coutinho",
+        "LW": "Ansu Fati",
+        "SUB": [
+            "Miralem Pjanic",
+            "Sergino Dest",
+            "Trincão"
+        ]
+    },
+    {
+        "OPPONENTS": "Liverpool",
+        "DATE": "05/04/2023",
+        "GK": "Alisson Becker",
+        "RB": "Trent Alexander-Arnold",
+        "LB": "Andrew Robertson",
+        "RH": "Jordan Henderson",
+        "CH": "Fabinho",
+        "LH": "Thiago Alcântara",
+        "RW": "Mohamed Salah",
+        "IR": "Roberto Firmino",
+        "CF": "Diogo Jota",
+        "IL": "Sadio Mané",
+        "LW": "Xherdan Shaqiri",
+        "SUB": [
+            "James Milner",
+            "Divock Origi"
+        ]
+    },
+    {
+        "OPPONENTS": "Paris Saint-Germain",
+        "DATE": "20/05/2023",
+        "GK": "Keylor Navas",
+        "RB": "Achraf Hakimi",
+        "LB": "Juan Bernat",
+        "RH": "Marco Verratti",
+        "CH": "Leandro Paredes",
+        "LH": "Idrissa Gueye",
+        "RW": "Kylian Mbappé",
+        "IR": "Neymar Jr.",
+        "CF": "Mauro Icardi",
+        "IL": "Angel Di Maria",
+        "LW": "Pablo Sarabia",
+        "SUB": [
+            "Sergio Rico",
+            "Lionel Messi"
+        ]
+    },
+    {
+        "OPPONENTS": "Bayern Munich",
+        "DATE": "12/08/2023",
+        "GK": "Manuel Neuer",
+        "RB": "Joshua Kimmich",
+        "LB": "Alphonso Davies",
+        "RH": "Leon Goretzka",
+        "CH": "Thomas Müller",
+        "LH": "Jamal Musiala",
+        "RW": "Leroy Sané",
+        "IR": "Robert Lewandowski",
+        "CF": "Serge Gnabry",
+        "IL": "Kingsley Coman",
+        "LW": "Douglas Costa",
+        "SUB": [
+            "Javi Martínez",
+            "Eric Maxim Choupo-Moting",
+            "Corentin Tolisso"
+        ]
+    }
+    
+    
+    
+    
+]

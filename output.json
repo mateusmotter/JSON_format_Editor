@@ -1,0 +1,438 @@
+[
+  {
+    "OPPONENTS": "DROGHEDA",
+    "DATE": "28/09/1993",
+    "PLAYERS": [
+      {
+        "POSITION": "GK",
+        "NAME": "Ray Clemence",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RB",
+        "NAME": "Roberts",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LB",
+        "NAME": "Paul Price",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RH",
+        "NAME": "Steve Perryman",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "CH",
+        "NAME": "Chris Hughton",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LH",
+        "NAME": "Alan Brazil",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RW",
+        "NAME": "Gary Mabbutt",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "IR",
+        "NAME": "Glenn Hoddle",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "CF",
+        "NAME": "Tony Galvin",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "IL",
+        "NAME": "Steve Archibald",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LW",
+        "NAME": "Mark Falco",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "SUB",
+        "NAME": "Gary O'Reilly",
+        "STARTING STATUS": "bench"
+      },
+      {
+        "POSITION": "SUB",
+        "NAME": "Peter",
+        "STARTING STATUS": "bench"
+      }
+    ]
+  },
+  {
+    "OPPONENTS": "Real Madrid",
+    "DATE": "15/02/2023",
+    "PLAYERS": [
+      {
+        "POSITION": "GK",
+        "NAME": "Thibaut Courtois",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RB",
+        "NAME": "Dani Carvajal",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LB",
+        "NAME": "Ferland Mendy",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RH",
+        "NAME": "Luka Modric",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "CH",
+        "NAME": "Casemiro",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LH",
+        "NAME": "Toni Kroos",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RW",
+        "NAME": "Vinícius Júnior",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "IR",
+        "NAME": "Karim Benzema",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "CF",
+        "NAME": "Eden Hazard",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "IL",
+        "NAME": "Marco Asensio",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LW",
+        "NAME": "Rodrygo",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "SUB",
+        "NAME": "Isco",
+        "STARTING STATUS": "bench"
+      },
+      {
+        "POSITION": "SUB",
+        "NAME": "Lucas Vázquez",
+        "STARTING STATUS": "bench"
+      }
+    ]
+  },
+  {
+    "OPPONENTS": "Barcelona",
+    "DATE": "10/03/2023",
+    "PLAYERS": [
+      {
+        "POSITION": "GK",
+        "NAME": "Marc-André ter Stegen",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RB",
+        "NAME": "Sergi Roberto",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LB",
+        "NAME": "Jordi Alba",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RH",
+        "NAME": "Frenkie de Jong",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "CH",
+        "NAME": "Sergio Busquets",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LH",
+        "NAME": "Pedri",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RW",
+        "NAME": "Ousmane Dembélé",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "IR",
+        "NAME": "Lionel Messi",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "CF",
+        "NAME": "Antoine Griezmann",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "IL",
+        "NAME": "Philippe Coutinho",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LW",
+        "NAME": "Ansu Fati",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "SUB",
+        "NAME": "Miralem Pjanic",
+        "STARTING STATUS": "bench"
+      },
+      {
+        "POSITION": "SUB",
+        "NAME": "Sergino Dest",
+        "STARTING STATUS": "bench"
+      },
+      {
+        "POSITION": "SUB",
+        "NAME": "Trincão",
+        "STARTING STATUS": "bench"
+      }
+    ]
+  },
+  {
+    "OPPONENTS": "Liverpool",
+    "DATE": "05/04/2023",
+    "PLAYERS": [
+      {
+        "POSITION": "GK",
+        "NAME": "Alisson Becker",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RB",
+        "NAME": "Trent Alexander-Arnold",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LB",
+        "NAME": "Andrew Robertson",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RH",
+        "NAME": "Jordan Henderson",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "CH",
+        "NAME": "Fabinho",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LH",
+        "NAME": "Thiago Alcântara",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RW",
+        "NAME": "Mohamed Salah",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "IR",
+        "NAME": "Roberto Firmino",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "CF",
+        "NAME": "Diogo Jota",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "IL",
+        "NAME": "Sadio Mané",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LW",
+        "NAME": "Xherdan Shaqiri",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "SUB",
+        "NAME": "James Milner",
+        "STARTING STATUS": "bench"
+      },
+      {
+        "POSITION": "SUB",
+        "NAME": "Divock Origi",
+        "STARTING STATUS": "bench"
+      }
+    ]
+  },
+  {
+    "OPPONENTS": "Paris Saint-Germain",
+    "DATE": "20/05/2023",
+    "PLAYERS": [
+      {
+        "POSITION": "GK",
+        "NAME": "Keylor Navas",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RB",
+        "NAME": "Achraf Hakimi",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LB",
+        "NAME": "Juan Bernat",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RH",
+        "NAME": "Marco Verratti",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "CH",
+        "NAME": "Leandro Paredes",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LH",
+        "NAME": "Idrissa Gueye",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RW",
+        "NAME": "Kylian Mbappé",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "IR",
+        "NAME": "Neymar Jr.",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "CF",
+        "NAME": "Mauro Icardi",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "IL",
+        "NAME": "Angel Di Maria",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LW",
+        "NAME": "Pablo Sarabia",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "SUB",
+        "NAME": "Sergio Rico",
+        "STARTING STATUS": "bench"
+      },
+      {
+        "POSITION": "SUB",
+        "NAME": "Lionel Messi",
+        "STARTING STATUS": "bench"
+      }
+    ]
+  },
+  {
+    "OPPONENTS": "Bayern Munich",
+    "DATE": "12/08/2023",
+    "PLAYERS": [
+      {
+        "POSITION": "GK",
+        "NAME": "Manuel Neuer",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RB",
+        "NAME": "Joshua Kimmich",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LB",
+        "NAME": "Alphonso Davies",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RH",
+        "NAME": "Leon Goretzka",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "CH",
+        "NAME": "Thomas Müller",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LH",
+        "NAME": "Jamal Musiala",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "RW",
+        "NAME": "Leroy Sané",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "IR",
+        "NAME": "Robert Lewandowski",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "CF",
+        "NAME": "Serge Gnabry",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "IL",
+        "NAME": "Kingsley Coman",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "LW",
+        "NAME": "Douglas Costa",
+        "STARTING STATUS": "startingXi"
+      },
+      {
+        "POSITION": "SUB",
+        "NAME": "Javi Martínez",
+        "STARTING STATUS": "bench"
+      },
+      {
+        "POSITION": "SUB",
+        "NAME": "Eric Maxim Choupo-Moting",
+        "STARTING STATUS": "bench"
+      },
+      {
+        "POSITION": "SUB",
+        "NAME": "Corentin Tolisso",
+        "STARTING STATUS": "bench"
+      }
+    ]
+  }
+]
